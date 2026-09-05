@@ -1,4 +1,4 @@
-# FInal-Project-Hotel-Booking-Analysis-
+# FInal-Project-Hotel-Booking-Analysis
 
 ## Project Overview
 This project analyses hotel booking data using Python to identify booking trends, cancellation patterns, seasonal demand, market segments, and pricing performance.
